@@ -1,0 +1,3 @@
+echo.
+rd /s /q "Data"
+Xcopy "..\..\1.SimulationData\3.Output\*.*" "Data\" /s /e /y /Q

@@ -1,0 +1,8 @@
+SQal_SQni@192.168.1.55@11301.csv=1
+SQal_SQsn@192.168.1.55@11302.csv=0
+SQal_SQzn@192.168.1.55@11303.csv=0
+SQcu_SQal@192.168.1.55@11305.csv=0
+SQcu_SQni@192.168.1.55@11306.csv=0
+SQzn_SQni@192.168.1.55@11307.csv=1
+SQzn_SQsn@192.168.1.55@11308.csv=0
+#Scaler=1

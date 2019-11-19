@@ -1,0 +1,9 @@
+SQfu_DLl@192.168.1.53@36903.csv,Sharpe=0.485,Volatility=0.573,0.15/V=0.262,0.12/V=0.209
+SQfu_DLpp@192.168.1.53@36908.csv,Sharpe=0.010,Volatility=0.567,0.15/V=0.265,0.12/V=0.212
+SQfu_DLv@192.168.1.53@36913.csv,Sharpe=0.596,Volatility=0.556,0.15/V=0.270,0.12/V=0.216
+SQfu_SQbu@192.168.1.53@36918.csv,Sharpe=0.526,Volatility=0.381,0.15/V=0.394,0.12/V=0.315
+SQfu_SQru@192.168.1.53@36923.csv,Sharpe=-0.303,Volatility=0.567,0.15/V=0.265,0.12/V=0.212
+SQfu_SQsc@192.168.1.53@36928.csv,Sharpe=1.678,Volatility=0.209,0.15/V=0.716,0.12/V=0.573
+SQfu_ZZMA@192.168.1.53@36933.csv,Sharpe=1.006,Volatility=0.473,0.15/V=0.317,0.12/V=0.254
+SQfu_ZZTA@192.168.1.53@36938.csv,Sharpe=1.409,Volatility=0.440,0.15/V=0.341,0.12/V=0.273
+* Portfolio,Sharpe=1.111, Volatility=0.134, 0.15/V=1.122, 0.12/V=0.898

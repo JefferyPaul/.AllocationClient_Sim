@@ -1,0 +1,9 @@
+Cn.All.60.PairX(CalArb)@CnCom.Id807035.CalArb3
+Cn.All.60.PairX(CalArb)@CnCom.Id807035.CalArb3R
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComA3
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComB3
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComC3
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComM3
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComF3
+Cn.All.60B.PairX(MFA)@CnCom.Id807035.CnOil_All
+Cn.Com.60B.Pattern@CnCom.Id007929.T2NV

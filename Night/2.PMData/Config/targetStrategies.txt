@@ -1,0 +1,5 @@
+Cn.All.60.PairX(CalArb)@CnCom.Id807035.CalArb3N
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComA3N
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComB3N
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComC3N
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComM3N

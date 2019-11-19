@@ -1,0 +1,8 @@
+Cn.All.60.PairX(CalArb)@CnCom.Id807035.CalArb3=1
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComA3=1
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComB3=1
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComC3=1
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComM3=1
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComM3_AuAg=1
+Cn.All.60B.PairX(MFA)@CnCom.Id807035.CnOil_All=1
+#Scaler=1

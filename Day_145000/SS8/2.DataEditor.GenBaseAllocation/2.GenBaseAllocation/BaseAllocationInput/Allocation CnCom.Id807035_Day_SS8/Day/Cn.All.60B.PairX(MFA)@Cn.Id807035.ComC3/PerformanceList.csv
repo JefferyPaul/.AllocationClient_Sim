@@ -1,0 +1,16 @@
+DLl_SQbu@192.168.1.61@35301.csv,Sharpe=0.990,Volatility=0.273,0.15/V=0.549,0.12/V=0.439
+DLl_SQru@192.168.1.61@35302.csv,Sharpe=1.275,Volatility=0.249,0.15/V=0.602,0.12/V=0.481
+DLl_ZZMA@192.168.1.61@35303.csv,Sharpe=0.735,Volatility=0.233,0.15/V=0.645,0.12/V=0.516
+DLl_ZZTA@192.168.1.61@35304.csv,Sharpe=1.342,Volatility=0.246,0.15/V=0.609,0.12/V=0.487
+DLpp_SQbu@192.168.1.61@35305.csv,Sharpe=0.934,Volatility=0.290,0.15/V=0.518,0.12/V=0.414
+DLpp_SQru@192.168.1.61@35306.csv,Sharpe=0.903,Volatility=0.286,0.15/V=0.524,0.12/V=0.419
+DLpp_ZZMA@192.168.1.61@35307.csv,Sharpe=1.028,Volatility=0.251,0.15/V=0.597,0.12/V=0.478
+DLpp_ZZTA@192.168.1.61@35308.csv,Sharpe=1.137,Volatility=0.273,0.15/V=0.550,0.12/V=0.440
+DLv_DLpp@192.168.1.61@35309.csv,Sharpe=0.455,Volatility=0.246,0.15/V=0.610,0.12/V=0.488
+DLv_SQbu@192.168.1.61@35310.csv,Sharpe=1.119,Volatility=0.270,0.15/V=0.555,0.12/V=0.444
+DLv_SQru@192.168.1.61@35311.csv,Sharpe=0.424,Volatility=0.239,0.15/V=0.628,0.12/V=0.502
+DLv_ZZMA@192.168.1.61@35312.csv,Sharpe=1.474,Volatility=0.254,0.15/V=0.589,0.12/V=0.472
+DLv_ZZTA@192.168.1.61@35313.csv,Sharpe=1.616,Volatility=0.244,0.15/V=0.614,0.12/V=0.491
+ZZMA_SQbu@192.168.1.61@35314.csv,Sharpe=1.183,Volatility=0.272,0.15/V=0.552,0.12/V=0.441
+ZZMA_SQru@192.168.1.61@35315.csv,Sharpe=0.765,Volatility=0.263,0.15/V=0.570,0.12/V=0.456
+* Portfolio,Sharpe=2.188, Volatility=0.142, 0.15/V=1.054, 0.12/V=0.843

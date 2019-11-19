@@ -1,0 +1,2 @@
+Allocation CnCom.Id807035_Day_SS8=1
+#Scaler=1

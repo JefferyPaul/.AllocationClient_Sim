@@ -1,0 +1,7 @@
+Cn.All.60.PairX(CalArb)@CnCom.Id807035.CalArb3,Sharpe=1.261,Volatility=0.116,0.15/V=1.297,0.12/V=1.038
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComA3,Sharpe=-1.353,Volatility=0.126,0.15/V=1.190,0.12/V=0.952
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComB3,Sharpe=2.756,Volatility=0.114,0.15/V=1.314,0.12/V=1.051
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComC3,Sharpe=1.278,Volatility=0.116,0.15/V=1.290,0.12/V=1.032
+Cn.All.60B.PairX(MFA)@Cn.Id807035.ComM3,Sharpe=0.973,Volatility=0.125,0.15/V=1.199,0.12/V=0.959
+Cn.All.60B.PairX(MFA)@CnCom.Id807035.CnOil_All,Sharpe=1.927,Volatility=0.128,0.15/V=1.172,0.12/V=0.938
+* Portfolio,Sharpe=2.533, Volatility=0.139, 0.15/V=1.077, 0.12/V=0.862
